@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d748306a-04e8-4595-a1b2-95cdfddaa969" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Estado.kt" afterDir="false" />
+    <list default="true" id="d748306a-04e8-4595-a1b2-95cdfddaa969" name="Changes" comment="Creacion de las clases necesarias, faltan metodos, y programacion defensiva">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Hobby.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Hobby.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/PerfilUsuario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PerfilUsuario.kt" afterDir="false" />
     </list>
@@ -35,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,8 +49,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690247958328</updated>
-      <workItem from="1690247959952" duration="5453000" />
+      <workItem from="1690247959952" duration="5491000" />
+      <workItem from="1690332193821" duration="9357000" />
     </task>
+    <task id="LOCAL-00001" summary="Creacion de las clases necesarias, faltan metodos, y programacion defensiva">
+      <created>1690254040462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690254040462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creacion de las clases necesarias, faltan metodos, y programacion defensiva" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de las clases necesarias, faltan metodos, y programacion defensiva" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-class PerfilUsuario(val Nombres: String, val Apellidos: String, val UrlPhoto: String?, val Edad: Int, val Correo: String, val Estado: Estado,val Hobbies: MutableList<Hobby>) {
+class PerfilUsuario(val Nombres: String, val Apellidos: String, val UrlPhoto: String?, val Edad: Int, val Correo: String, val Estado: Estado, var Hobbies: MutableList<Hobby>) {
     val ID: Int = contadorID()
     companion object {
         private var contador: Int = 0
